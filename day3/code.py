@@ -1,5 +1,5 @@
 #read from input.txt
-with open('Day 3/input.txt', 'r') as f:
+with open('day3/input.txt', 'r') as f:
     data = f.read()
 
 #convert data to list of diagnostic reports
