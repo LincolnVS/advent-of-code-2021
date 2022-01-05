@@ -1,8 +1,6 @@
 # Advent of Code 2021
 Python solutions to Advent of Code 2021. https://adventofcode.com/2021
 
-## Normal Mode
-Solve the problem in the best possible way
 - Day 1: [Sonar Sweep](./day1/)
 - Day 2: [Dive!](./day2/)
 - Day 3: [Binary Diagnostic](./day3/)
